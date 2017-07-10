@@ -6,7 +6,7 @@
 #include <ESP8266HTTPClient.h>
 #define OLED_RESET LED_BUILTIN  //4
 Adafruit_SSD1306 display(OLED_RESET);
-
+//Connections..D1-SCL,D2-SDA
 
 
 
